@@ -1,12 +1,3 @@
-<style>
-.social_box a{
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 5px;
-    overflow: hidden;
-}
-</style>
 <div align="center">
   <img height="200" src="https://github.com/1122852356837/1122852356837/blob/main/images/nanami-kento.png"  />
 </div>
