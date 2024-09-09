@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/parsa-rajabi-nanami/parsa-rajabi-nanami/blob/main/images/nanami-kento.png"  />
+  <img width="100" src="https://github.com/parsa-rajabi-nanami/parsa-rajabi-nanami/blob/main/images/nanami-kento.jpg"  />
 </div>
 
 # 💫 About Me:
