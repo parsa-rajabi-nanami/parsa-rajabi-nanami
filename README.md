@@ -14,7 +14,7 @@
 ###
 
 <div align="center" class="social_box">
-  <a href="mailto:pursa218rajaby@gmail.com" target="_blank" class="display: inline-flex;align-items: center;justify-content: center;border-radius: 5px;overflow: hidden;">
+  <a href="mailto:pursa218rajaby@gmail.com" target="_blank" style="display: inline-flex;align-items: center;justify-content: center;border-radius: 5px;overflow: hidden;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/parsa-rajabi-nanami" target="_blank">
