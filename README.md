@@ -62,16 +62,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1122852356837&theme=catppuccin_latte&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1122852356837&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=1122852356837&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=1122852356837&icon=8&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">
   <img height="200" src="https://github.com/1122852356837/1122852356837/blob/main/images/nanami-kento.png"  />
