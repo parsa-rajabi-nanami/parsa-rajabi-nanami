@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/1122852356837/1122852356837/blob/main/images/nanami-kento.png"  />
+  <img height="200" src="https://github.com/parsa-rajabi-nanami/parsa-rajabi-nanami/blob/main/images/nanami-kento.png"  />
 </div>
 
 # 💫 About Me:
@@ -41,15 +41,15 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=1122852356837&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=1122852356837&theme=catppuccin_latte&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1122852356837&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=parsa-rajabi-nanami&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=parsa-rajabi-nanami&theme=catppuccin_latte&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-rajabi-nanami&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 # 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=1122852356837&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=parsa-rajabi-nanami&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
 <div align="center">
   <a href="mailto:pursa218rajaby@gmail.com" target="_blank">
@@ -67,4 +67,4 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=1122852356837&icon=8&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=parsa-rajabi-nanami&icon=8&color=10)](https://visitcount.itsvg.in)
