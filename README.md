@@ -1,10 +1,19 @@
+<style>
+.social_box a{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    overflow: hidden;
+}
+</style>
 <div align="center">
   <img height="200" src="https://github.com/1122852356837/1122852356837/blob/main/images/nanami-kento.png"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="center" class="social_box">
   <a href="mailto:pursa218rajaby@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
