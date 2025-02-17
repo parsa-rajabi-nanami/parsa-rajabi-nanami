@@ -2,8 +2,12 @@
   <img src="https://github.com/parsa-rajabi-nanami/parsa-rajabi-nanami/blob/main/images/nanami-kento.jpg"  />
 </div>
 
-# 💫 About Me:
-🔭 I'm currently working on Didnegar company<br>🌱 I’m currently learning python<br>💬 Ask me about web development<br>🏬 I’m currently a mechanical engineer<br>⚡ fun fact about me that i love call of duty
+# Hey 👋 What's up?
+🔭 I'm parsa rajabi and currently working on Didnegar company<br>
+🌱 I love python and learning ML and AI<br>
+🏬 I study a mechanical engineer in collage kharazmi university<br>
+⚡ fun fact about me that i love call of duty<br>
+💬 Ask me anything about web development
 
 # 💻 Tech Stack:
 <div align="left">
